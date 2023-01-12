@@ -1,6 +1,10 @@
 # ConeBot
 ConeBot platform script with XL320 motors &amp; ESP32 CAM microcontroller under Arduino IDE.
 
+![ConeBot illustration](ConeBot_capture.jpg)
+
+![ConeBot getting dressed](https://github.com/rei039474/ConeBot/blob/main/ConeBot.gif?raw=true)
+
 Please refer to the following repo for the XL320 Servo library under Arduino IDE:
 
 [hackerspace-adelaide/XL320](https://github.com/hackerspace-adelaide/XL320)
