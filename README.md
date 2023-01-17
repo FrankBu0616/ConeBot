@@ -11,6 +11,6 @@ Please refer to the following repo for the XL320 Servo library under Arduino IDE
 
 If you want to use the XL330 motors instead, please refer to the following repo for the XL330 Servo library under Arduino IDE:
 
-[rei039474/Dynamixel_XL330_Servo_Library](https://github.com/hackerspace-adelaide/XL320)
+[rei039474/Dynamixel_XL330_Servo_Library](https://github.com/rei039474/Dynamixel_XL330_Servo_Library)
 
 You will have the edit through the codes accordingly.
